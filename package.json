@@ -9,8 +9,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/roboto": "^0.2.3",
     "@react-native/virtualized-lists": "^0.74.83",
     "expo": "~51.0.8",
+    "expo-font": "~12.0.5",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
